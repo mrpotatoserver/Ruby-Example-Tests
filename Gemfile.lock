@@ -35,7 +35,7 @@ GEM
       selenium-webdriver (>= 2.45.0)
     faraday (0.10.0)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.14)
+    ffi (1.12.2)
     gherkin (4.0.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
